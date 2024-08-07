@@ -1,12 +1,10 @@
 #hero{
     text-align: center;
-    background-image: url("/img/fondo/bg-masthead.jpg");
+    background-image: url("/img/bg-masthead.jpg");
     padding-top: 300px;
     padding-bottom: 300px;
     background-size: cover;
     background-position: center;
-    background-blend-mode: multiply;
-    color: aliceblue;
 }
 
 #about_us{
@@ -108,7 +106,7 @@
 
   #contacto{
     text-align: center;
-    background-image: url("/img/fondo/bg-masthead.jpg");
+    background-image: url("/img/bg-masthead.jpg");
     padding-top: 300px;
     padding-bottom: 300px;
     background-size: cover;
